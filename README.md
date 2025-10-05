@@ -22,15 +22,16 @@ A simple yet exciting space-themed dodge game built with **Python** and **Pygame
 
 ### 1️⃣ Main Gameplay  
 The main screen of the game where you control your red spaceship and dodge the falling obstacles.  
-![Game Screenshot 1](Ekran%20Resmi%202025-10-05%2017.56.34.png)
+![Gameplay Screenshot](gameplay.png)
 
 ### 2️⃣ Losing a Life  
 When you hit an obstacle, you lose one heart — the remaining number of lives is displayed on the screen.  
-![Game Screenshot 2](Ekran%20Resmi%202025-10-05%2017.57.10.png)
+![Losing Life Screenshot](lose-life.png)
 
 ### 3️⃣ Game Over Screen  
 When all lives are gone, the game ends and “Game Over” text appears on the screen.  
-![Game Screenshot 3](Ekran%20Resmi%202025-10-05%2017.57.45.png)
+![Game Over Screenshot](game-over.png)
+
 
 ## How to Run
 1. Make sure Python is installed on your computer.  
